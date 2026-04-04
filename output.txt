@@ -1,3 +1,2 @@
-The value of num1 is: 10
-The value of f is: 1.770000
-The value of c is: A
+print c  0
+1
