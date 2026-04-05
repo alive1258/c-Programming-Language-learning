@@ -1,3 +1,4 @@
-you entered float: 2.330000
-you entered character: a
-you entered integer: 109
+double 1133.222222
+float: 11.22
+integer:1000
+long long:1000000000000
